@@ -63,9 +63,8 @@ export const BtnAdd = styled.button`
     content: '';
     background: linear-gradient(
       45deg,
-      #364e4d,
       #243c33,
-      #192b25,
+      #364e4d,
       #d1b579,
       #e46c39,
       #c73e2c,
@@ -73,7 +72,8 @@ export const BtnAdd = styled.button`
       #37507a,
       #c73e2c,
       #e46c39,
-      #d1b579
+      #d1b579,
+      #243c33
     );
     position: absolute;
     top: -2px;
